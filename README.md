@@ -3,6 +3,8 @@
 **Plataforma de Gestão de Conhecimento e Automação de Estudos** para estudantes e profissionais da área de TI.
 Acesse: 
 
+mimircore.vercel.app
+
 Gostou do projeto ou ele te ajudou de alguma forma? Considere deixar uma estrela (Star) nesse repositório para apoiar o desenvolvimento.
 
 Bem-vindo ao repositório do **MimirCore**. Este não é apenas mais um aplicativo de estudos; é a solução que construí para resolver uma dor real no meu próprio fluxo de aprendizado em **Cloud**, **Observabilidade** e **Automação**.
