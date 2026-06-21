@@ -59,12 +59,11 @@ Aqui é onde tudo começou, um painel separado por categorias, sub-categorias e 
 
 Além disso temos um **DECIFRADOR DE COMANDOS**: muitas vezes vamos nos deparar com um comando gigante que foi feito por outra pessoas e não entendemos de cara o que ele faz ou é de um nível de conhecimento acima do nosso ou simplesmente é muito complexo, então esse decifrador pega esse comando, desmembra e devolve com uma explicação didática parte por parte extremamente detalhada, da exemplos reais de uso, casos reais e tudo que faça o usuário entender de forma clara o que é.
 
+Temos também um **FAVORITOS** para o usuário salvar seus COMANDOS e TUTORIAIS FAVORITOS e além disso um "carrinho" com os últimos 5 comandos ou tutoriais que você salvou, pois sei que as vezes seguimos uma linha de produção que temos que usar comandos específicos seguidos e várias vezes.
+
 ![Home 1](imagens/01_home_1.png)
 
 ![Home 2](imagens/01_home_2.png)
-
-
-Temos também um **FAVORITOS** para o usuário salvar seus COMANDOS e TUTORIAIS FAVORITOS e além disso um "carrinho" com os últimos 5 comandos ou tutoriais que você salvou, pois sei que as vezes seguimos uma linha de produção que temos que usar comandos específicos seguidos e várias vezes.
 
 ### 2. Quiz e Simulados
 
